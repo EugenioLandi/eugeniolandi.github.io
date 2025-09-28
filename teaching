@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Teaching</title>
+		<meta name="author" content="Eugenio Landi"/>
+		<meta name="description" content="This is Eugenio Landi's personal webpage."/>
+		<meta name="keywords" content="Eugenio, Landi, Math, algebraic topology">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<meta name="google-site-verification" content="kb4Hsut63eAqSccZE0GE7ZVtHP64Fm-obTuqbjkoPNo" />
+		<link rel="icon" type="image/x-icon" href="/images/icon1.ico">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap" rel="stylesheet">
+		<style type="text/css">
+		body{
+			font-family:"Lato",sans-serif; 
+			background-color: white;
+			max-width: 1080px; 
+	margin: 0 auto !important; 
+	float: none !important; 
+		}
+			
+		p {
+    		color: #454545;
+    		font-weight: normal;
+    		vertical-align: baseline;
+		font-size: 15.0pt;
+		line-height: 1.38;
+		}
+			
+		h1 {
+		font-size: 40.0pt;
+		font-weight: 300;
+		margin-top: 0.2em;
+  		margin-bottom: 0.2em;
+		}
+			
+		ul {
+    		color: #454545;
+    		font-weight: normal;
+    		vertical-align: baseline;
+		font-size: 15.0pt;
+		}
+			
+		h2 {
+ 		color: #0077aa;
+		font-weight: 300;
+		}
+			
+		li{
+    		margin: 10px 0;
+		}
+			
+		h3 {
+ 		color: #0077aa;
+		font-weight: 300;
+		}
+			
+		a:link {
+ 		color: #0077aa;
+  		background-color: transparent;
+  		text-decoration: none;
+		}
+
+		a:visited {
+  		color: #0077aa;
+  		background-color: transparent;
+  		text-decoration: none;
+		}
+
+		a:hover {
+  		color: #0077aa;
+  		background-color: transparent;
+  		text-decoration: none;
+		}
+		#container {
+  			width: 100%;
+   			margin: 16px auto;
+    		padding: 16px;
+		}	
+		#box {
+  		<!--	width: 800px;-->
+  			margin-left: auto;
+    		margin-right: auto;
+  			
+  			position: relative;
+		}		
+		#my-img{
+    		height: 100%;
+    		width: 100%;
+    		position: relative;
+    		display:flex;
+		}
+		#main-header{
+			text-align:center;
+			color:#0077aa;
+			padding:5px;
+		}
+		#About-me{
+			margin-right:40%px;
+		</style>
+	
+	</head>
+	<body class="resizable">
+		<div id="container">
+		<div id="box">
+		<header id="main-header">
+			<h1>Eugenio Landi</h1>
+		</header>
+
+		<br>
+		<section id="Teaching">
+			<h2>Teaching:</h2>			
+		Page under construction.
+	</body>
+</html>
