@@ -100,7 +100,7 @@ th, td {
 }
 
 thead th {
-  background-color: #000000; /* matches header accent, light blue */
+  background-color: #ffffff; /* matches header accent, light blue */
   color: #0077aa;           /* header text color */
   font-weight: 600;
 }
