@@ -82,3 +82,40 @@ a:hover {
     color: #0077aa;
     padding: 5px;
 }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+}
+
+th, td {
+  border: 1px solid #c5e4f1;
+  padding: 8px 12px;
+  text-align: left;
+  vertical-align: top;
+  font-family: "Lato", sans-serif;
+  color: #454545;
+  background-color: white;
+}
+
+thead th {
+  background-color: #bfe3fa; /* matches header accent, light blue */
+  color: #0077aa;           /* header text color */
+  font-weight: 600;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f6fbfd; /* very pale blue for alternate rows */
+}
+
+ul {
+  margin: 0;
+  padding-left: 1.2em;
+  color: #454545;
+  font-size: 15pt;
+}
+
+a {
+  color: #0077aa;
+}
