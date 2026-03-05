@@ -106,7 +106,7 @@ thead th {
 }
 
 tbody tr:nth-child(even) {
-  background-color: #f6fbfd; /* very pale blue for alternate rows */
+  background-color: #e5f7ff; /* very pale blue for alternate rows */
 }
 
 ul {
