@@ -90,7 +90,7 @@ table {
 }
 
 th, td {
-  border: 1px solid #c5e4f1;
+  border: 1px solid #0077aa;
   padding: 8px 12px;
   text-align: left;
   vertical-align: top;
@@ -100,7 +100,7 @@ th, td {
 }
 
 thead th {
-  background-color: #bfe3fa; /* matches header accent, light blue */
+  background-color: #000000; /* matches header accent, light blue */
   color: #0077aa;           /* header text color */
   font-weight: 600;
 }
