@@ -96,7 +96,7 @@ th, td {
   vertical-align: top;
   font-family: "Lato", sans-serif;
   color: #454545;
-  background-color: white;
+  background-color: transparent;
 }
 
 thead th {
@@ -106,7 +106,7 @@ thead th {
 }
 
 tbody tr:nth-child(even) {
-  background-color: #e5f7ff; /* very pale blue for alternate rows */
+  background-color: #f5fcff; /* very pale blue for alternate rows */
 }
 
 ul {
